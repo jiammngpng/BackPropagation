@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\DELL\source\repos\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\DELL\source\repos\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.Form1.resources
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.Properties.Resources.resources
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\DELL\source\repos\NeuralNet\obj\Debug\NeuralNet.pdb

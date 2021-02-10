@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\BackPropagation\bin\Debug\NeuralNet.exe.config
+C:\Users\DELL\source\repos\BackPropagation\bin\Debug\NeuralNet.exe
+C:\Users\DELL\source\repos\BackPropagation\bin\Debug\NeuralNet.pdb
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\BackPropagation.Form1.resources
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\NeuralNet.Properties.Resources.resources
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\BackPropagation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\NeuralNet.exe
+C:\Users\DELL\source\repos\BackPropagation\obj\Debug\NeuralNet.pdb
